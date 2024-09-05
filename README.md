@@ -1,6 +1,6 @@
 # GitHub Repo Traffic Stats
 
-Simple and easy to use GitHub repos traffic history longer than 14 days using GitHub Actions.
+A simple tool to collect and view GitHub repos traffic history longer than 14 days using GitHub Actions.
 
 [![A screenshot of the website.](dashboard_screenshot.png)](https://piebro.github.io/github-repo-traffic-stats)
 
