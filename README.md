@@ -8,7 +8,7 @@ Simple and easy to use GitHub repos traffic history longer than 14 days using Gi
 
 - Collect traffic metrics for all your repos using GitHub Actions
 - A simple web interface to view the stats locally or hosted using GitHub Pages
-- The demo website with my repos is here: [piebro.github.io/github-repo-traffic-stats](https://piebro.github.io/github-repo-traffic-stats)
+- A demo website is here: [piebro.github.io/github-repo-traffic-stats](https://piebro.github.io/github-repo-traffic-stats)
 
 ## How to use
 
