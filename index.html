@@ -115,7 +115,7 @@
     <div id="dashboardView">
         <button id="backButton" onclick="showPreview()">← Back</button>
         <div class="dashboard-header">
-            <h1></h1>
+            <h1>GitHub Traffic Dashboard - <a id="repoLink" href="#" target="_blank"></a></h1>
             <select id="timeRange" onchange="updateCharts()">
                 <option value="total">Total</option>
                 <option value="7">Last 7 days</option>
@@ -413,7 +413,9 @@
         document.getElementById('dashboardView').style.display = 'block';
         document.getElementById('mainHeader').style.display = 'none';
         currentDataSource = repo;
-        document.querySelector('#dashboardView h1').textContent = `GitHub Traffic Dashboard - ${repo}`;
+        const repoLink = document.getElementById('repoLink');
+        repoLink.textContent = repo;
+        repoLink.href = `https://github.com/piebro/${repo}`;
         loadDataAndCreateCharts();
         history.pushState({view: 'dashboard', repo: repo}, '', `#${repo}`);
         window.scrollTo(0, 0);
