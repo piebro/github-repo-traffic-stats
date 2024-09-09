@@ -14,7 +14,7 @@ A simple tool to collect and view GitHub repos traffic history longer than 14 da
 
 1. Fork the repo
 2. Delete the existing data in the `data` and `preview_plots` folders
-3. Change the "owner" in `github_username.txt`
+3. Change the "owner" in `github_username.txt` and change the websites in `index.html`
 4. Create a GitHub token to access this API: https://docs.github.com/en/rest/metrics/traffic
 5. Add the token as an Action secret to the repo and name it `GH_TOKEN`
 6. In the settings, enable the Read and Write Action Permissions (to allow the action to push the data to the repo)
