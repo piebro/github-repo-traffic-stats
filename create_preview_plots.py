@@ -2,10 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.dates import DateFormatter
 from matplotlib.ticker import MaxNLocator
-import calendar
 from datetime import datetime, timedelta
 import os
-import numpy as np
 
 def create_plot(df, title, filename):
     current_date = datetime.now().date()
