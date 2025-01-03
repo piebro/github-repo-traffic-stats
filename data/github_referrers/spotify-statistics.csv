@@ -150,3 +150,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2024-12-31,Google,5,5,DuckDuckGo,4,1,github.com,3,3,piebro.github.io,3,2,Bing,2,1,,,,,,,,,,,,,,,
 2025-01-01,Google,5,5,github.com,3,3,piebro.github.io,3,2,Bing,2,1,DuckDuckGo,1,1,,,,,,,,,,,,,,,
 2025-01-02,Google,4,4,github.com,3,3,piebro.github.io,3,2,Bing,2,1,,,,,,,,,,,,,,,,,,
+2025-01-03,github.com,3,3,Google,3,3,piebro.github.io,3,2,,,,,,,,,,,,,,,,,,,,,
