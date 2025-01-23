@@ -180,3 +180,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2025-01-20,news.ycombinator.com,14531,11169,piebro.github.io,416,250,hckrnews.com,287,258,github.com,107,58,Google,85,42,t.co,60,45,com.google.android.gm,49,32,news.hada.io,48,42,mail.google.com,39,35,hn.premii.com,34,30
 2025-01-21,news.ycombinator.com,14541,11190,piebro.github.io,418,253,hckrnews.com,287,258,github.com,110,60,Google,86,42,t.co,62,47,com.google.android.gm,50,33,news.hada.io,48,42,mail.google.com,39,35,tympanus.net,36,27
 2025-01-22,news.ycombinator.com,14548,11190,piebro.github.io,414,251,hckrnews.com,287,258,github.com,108,62,Google,88,44,t.co,62,47,com.google.android.gm,51,34,news.hada.io,48,42,mail.google.com,39,35,api.daily.dev,36,30
+2025-01-23,news.ycombinator.com,3892,3244,piebro.github.io,187,109,hckrnews.com,103,96,github.com,77,47,t.co,57,44,Google,52,38,com.google.android.gm,50,33,news.hada.io,48,42,mail.google.com,39,35,tympanus.net,36,27
