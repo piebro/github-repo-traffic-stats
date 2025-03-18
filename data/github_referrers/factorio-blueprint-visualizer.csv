@@ -234,3 +234,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2025-03-15,Google,20,16,news.ycombinator.com,14,9,piebro.github.io,8,7,github.com,8,6,forums.factorio.com,8,6,DuckDuckGo,5,3,tympanus.net,5,3,search.brave.com,2,2,reddit.com,2,1,t.co,1,1
 2025-03-16,Google,23,19,news.ycombinator.com,12,8,piebro.github.io,11,7,forums.factorio.com,9,7,github.com,9,7,tympanus.net,5,3,DuckDuckGo,5,3,t.co,2,2,search.brave.com,2,2,reddit.com,2,1
 2025-03-17,Google,23,19,news.ycombinator.com,13,8,github.com,11,8,piebro.github.io,11,7,forums.factorio.com,10,8,DuckDuckGo,5,3,tympanus.net,3,2,t.co,2,2,reddit.com,2,1,huggingface.co,1,1
+2025-03-18,Google,23,19,forums.factorio.com,13,10,news.ycombinator.com,13,8,github.com,12,9,piebro.github.io,11,7,DuckDuckGo,5,3,tympanus.net,3,2,gigazine.net,3,2,t.co,2,2,chatgpt.com,2,1
