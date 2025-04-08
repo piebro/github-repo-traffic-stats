@@ -164,3 +164,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2025-04-05,Google,5,5,Bing,2,2,DuckDuckGo,2,2,yandex.ru,1,1,github.com,1,1,de.search.yahoo.com,1,1,StartPage,1,1,,,,,,,,,
 2025-04-06,Google,4,4,ecosia.org,4,1,Bing,2,2,DuckDuckGo,2,2,yandex.ru,1,1,de.search.yahoo.com,1,1,github.com,1,1,perplexity.ai,1,1,,,,,,
 2025-04-07,Google,4,4,ecosia.org,4,1,DuckDuckGo,2,2,Bing,1,1,perplexity.ai,1,1,yandex.ru,1,1,de.search.yahoo.com,1,1,github.com,1,1,,,,,,
+2025-04-08,Google,4,4,DuckDuckGo,4,4,ecosia.org,4,1,yandex.ru,2,2,github.com,1,1,de.search.yahoo.com,1,1,perplexity.ai,1,1,Bing,1,1,,,,,,
