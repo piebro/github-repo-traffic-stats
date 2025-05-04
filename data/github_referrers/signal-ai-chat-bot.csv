@@ -190,3 +190,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2025-05-01,Google,5,4,DuckDuckGo,3,3,Bing,2,2,github.com,1,1,search.brave.com,1,1,,,,,,,,,,,,,,,
 2025-05-02,Bing,3,3,DuckDuckGo,3,3,Google,2,2,github.com,1,1,search.brave.com,1,1,,,,,,,,,,,,,,,
 2025-05-03,DuckDuckGo,6,3,Google,3,3,Bing,3,3,github.com,1,1,search.brave.com,1,1,,,,,,,,,,,,,,,
+2025-05-04,DuckDuckGo,6,3,Google,3,3,Bing,3,3,ecosia.org,2,2,github.com,1,1,search.brave.com,1,1,,,,,,,,,,,,
