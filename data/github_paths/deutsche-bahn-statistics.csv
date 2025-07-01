@@ -206,3 +206,4 @@ date,path_1,path_1_count,path_1_uniques,path_2,path_2_count,path_2_uniques,path_
 2025-06-28,/piebro/deutsche-bahn-statistics,12,7,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2025-06-29,/piebro/deutsche-bahn-statistics,12,7,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2025-06-30,/piebro/deutsche-bahn-statistics,10,7,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-07-01,/piebro/deutsche-bahn-statistics,10,9,/piebro/deutsche-bahn-statistics/blob/main/run_all_calculations.py,1,1,/piebro/deutsche-bahn-statistics/tree/main/.github/workflows,1,1,,,,,,,,,,,,,,,,,,,,,
