@@ -89,3 +89,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2025-07-06,pypi.org,7,5,Google,1,1,,,,,,,,,,,,,,,,,,,,,,,,
 2025-07-07,pypi.org,7,5,Google,1,1,,,,,,,,,,,,,,,,,,,,,,,,
 2025-07-08,pypi.org,6,4,github.com,6,2,Google,1,1,,,,,,,,,,,,,,,,,,,,,
+2025-07-09,github.com,18,2,pypi.org,7,5,Google,1,1,,,,,,,,,,,,,,,,,,,,,
