@@ -231,3 +231,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2025-07-24,Google,52,12,gemini.google.com,51,2,github.com,24,2,chatgpt.com,21,2,Bing,19,6,piebro.github.io,9,2,web.telegram.org,3,1,,,,,,,,,
 2025-07-25,Google,52,12,gemini.google.com,52,2,github.com,25,3,chatgpt.com,21,2,Bing,19,6,piebro.github.io,10,3,web.telegram.org,3,1,DuckDuckGo,1,1,search.brave.com,1,1,,,
 2025-07-26,Google,52,12,gemini.google.com,40,2,github.com,25,3,chatgpt.com,23,4,Bing,19,6,piebro.github.io,15,4,DuckDuckGo,12,2,web.telegram.org,3,1,search.brave.com,1,1,,,
+2025-07-27,Google,49,12,github.com,25,3,chatgpt.com,24,5,gemini.google.com,24,2,Bing,19,6,piebro.github.io,15,4,DuckDuckGo,12,2,web.telegram.org,3,1,search.brave.com,1,1,perplexity.ai,1,1
