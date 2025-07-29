@@ -14,3 +14,4 @@ date,path_1,path_1_count,path_1_uniques,path_2,path_2_count,path_2_uniques,path_
 2025-05-01,/piebro/plotter-text,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2025-07-27,/piebro/plotter-text,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2025-07-28,/piebro/plotter-text,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-07-29,/piebro/plotter-text,3,2,/piebro/plotter-text/blob/main/fonts.js,1,1,,,,,,,,,,,,,,,,,,,,,,,,
