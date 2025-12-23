@@ -395,3 +395,4 @@ date,path_1,path_1_count,path_1_uniques,path_2,path_2_count,path_2_uniques,path_
 2025-08-24,/piebro/spotify-statistics,4,3,/piebro/spotify-statistics/tree/main/src,1,1,,,,,,,,,,,,,,,,,,,,,,,,
 2025-08-25,/piebro/spotify-statistics,2,2,/piebro/spotify-statistics/tree/main/src,1,1,,,,,,,,,,,,,,,,,,,,,,,,
 2025-08-26,/piebro/spotify-statistics,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2025-12-23,/piebro/spotify-statistics,18,17,/piebro/spotify-statistics/issues,4,1,/piebro/spotify-statistics/blob/main/db_documentation.md,2,1,/piebro/spotify-statistics/blob/main/README.md,1,1,/piebro/spotify-statistics/blob/main/index.html,1,1,/piebro/spotify-statistics/blob/main/pyproject.toml,1,1,/piebro/spotify-statistics/blob/main/uv.lock,1,1,/piebro/spotify-statistics/tree/main/src,1,1,,,,,,
