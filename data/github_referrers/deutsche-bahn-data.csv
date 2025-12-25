@@ -269,3 +269,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2025-09-07,Google,4,1,DuckDuckGo,3,2,,,,,,,,,,,,,,,,,,,,,,,,
 2025-12-23,chatgpt.com,68,11,Google,53,24,piebro.github.io,25,14,huggingface.co,8,6,DuckDuckGo,7,7,Bing,6,3,search.brave.com,6,2,github.com,4,4,ecosia.org,1,1,,,
 2025-12-24,chatgpt.com,65,8,Google,38,18,piebro.github.io,18,13,huggingface.co,10,8,DuckDuckGo,7,7,Bing,6,3,search.brave.com,6,2,github.com,3,3,ecosia.org,1,1,,,
+2025-12-25,chatgpt.com,64,7,Google,27,15,piebro.github.io,18,13,huggingface.co,9,7,search.brave.com,7,2,DuckDuckGo,6,6,Bing,6,3,github.com,3,3,ecosia.org,1,1,,,
