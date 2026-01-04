@@ -322,3 +322,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-01-01,Google,48,33,github.com,14,3,search.brave.com,3,3,DuckDuckGo,2,1,Bing,1,1,,,,,,,,,,,,,,,
 2026-01-02,Google,51,36,github.com,14,3,search.brave.com,3,3,DuckDuckGo,2,1,Bing,1,1,,,,,,,,,,,,,,,
 2026-01-03,Google,53,38,github.com,14,3,DuckDuckGo,2,1,Bing,1,1,search.brave.com,1,1,,,,,,,,,,,,,,,
+2026-01-04,Google,50,38,github.com,14,3,Bing,2,2,DuckDuckGo,2,1,search.brave.com,1,1,,,,,,,,,,,,,,,
