@@ -29,3 +29,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-02-03,Google,3,3,huggingface.co,2,2,chatgpt.com,1,1,news.ycombinator.com,1,1,,,,,,,,,,,,,,,,,,
 2026-02-04,Google,3,3,chatgpt.com,1,1,huggingface.co,1,1,news.ycombinator.com,1,1,,,,,,,,,,,,,,,,,,
 2026-02-05,huggingface.co,2,2,Google,1,1,chatgpt.com,1,1,news.ycombinator.com,1,1,,,,,,,,,,,,,,,,,,
+2026-02-06,huggingface.co,3,3,Google,1,1,chatgpt.com,1,1,github.com,1,1,news.ycombinator.com,1,1,,,,,,,,,,,,,,,

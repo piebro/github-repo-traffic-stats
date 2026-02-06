@@ -355,3 +355,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-02-03,Google,51,44,search.brave.com,4,4,github.com,2,2,Bing,1,1,DuckDuckGo,1,1,Yahoo,1,1,kagi.com,1,1,piebro.github.io,1,1,,,,,,
 2026-02-04,Google,53,46,search.brave.com,4,4,github.com,2,2,Bing,1,1,DuckDuckGo,1,1,Yahoo,1,1,kagi.com,1,1,piebro.github.io,1,1,,,,,,
 2026-02-05,Google,50,44,search.brave.com,4,3,Bing,4,2,github.com,2,2,DuckDuckGo,1,1,kagi.com,1,1,piebro.github.io,1,1,,,,,,,,,
+2026-02-06,Google,51,45,search.brave.com,7,5,Bing,4,2,DuckDuckGo,1,1,github.com,1,1,kagi.com,1,1,piebro.github.io,1,1,,,,,,,,,
