@@ -313,3 +313,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-02-04,Google,42,22,huggingface.co,39,13,piebro.github.io,35,14,github.com,25,9,chatgpt.com,12,6,claude.ai,10,2,Bing,6,5,DuckDuckGo,5,3,perplexity.ai,1,1,search.brave.com,1,1
 2026-02-05,DuckDuckGo,69,5,Google,42,23,huggingface.co,34,13,piebro.github.io,33,12,github.com,26,9,chatgpt.com,12,6,claude.ai,9,1,Bing,6,5,search.brave.com,1,1,,,
 2026-02-06,DuckDuckGo,69,5,Google,41,21,piebro.github.io,33,13,huggingface.co,29,13,github.com,28,10,chatgpt.com,12,6,claude.ai,10,2,Bing,6,5,search.brave.com,2,2,,,
+2026-02-07,DuckDuckGo,69,5,Google,42,23,piebro.github.io,29,12,huggingface.co,27,11,github.com,26,9,chatgpt.com,14,8,claude.ai,10,2,Bing,5,4,qwant.com,4,1,search.brave.com,2,2
