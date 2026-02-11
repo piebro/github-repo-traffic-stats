@@ -38,3 +38,4 @@ date,path_1,path_1_count,path_1_uniques,path_2,path_2_count,path_2_uniques,path_
 2026-02-08,/piebro/wikidata-extraction,9,8,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-02-09,/piebro/wikidata-extraction,9,8,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-02-10,/piebro/wikidata-extraction,10,8,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-02-11,/piebro/wikidata-extraction,14,11,/piebro/wikidata-extraction/blob/main/pyproject.toml,1,1,,,,,,,,,,,,,,,,,,,,,,,,
