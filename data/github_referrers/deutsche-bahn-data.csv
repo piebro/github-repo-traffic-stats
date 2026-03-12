@@ -346,3 +346,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-03-09,Google,98,42,github.com,57,17,huggingface.co,34,13,chatgpt.com,33,8,piebro.github.io,11,7,DuckDuckGo,10,1,Bing,2,2,search.brave.com,2,1,git.hubp.de,1,1,m.facebook.com,1,1
 2026-03-10,Google,92,42,github.com,57,17,huggingface.co,33,12,chatgpt.com,33,8,piebro.github.io,14,8,DuckDuckGo,10,1,git.hubp.de,6,1,Bing,5,4,search.brave.com,2,1,m.facebook.com,1,1
 2026-03-11,Google,91,41,github.com,46,17,huggingface.co,34,12,chatgpt.com,32,7,piebro.github.io,13,7,DuckDuckGo,11,2,git.hubp.de,6,1,Bing,5,4,search.brave.com,2,1,ecosia.org,1,1
+2026-03-12,Google,80,37,github.com,44,16,huggingface.co,38,12,chatgpt.com,32,7,DuckDuckGo,11,2,piebro.github.io,8,5,git.hubp.de,6,1,Bing,5,4,search.brave.com,2,1,ecosia.org,1,1
