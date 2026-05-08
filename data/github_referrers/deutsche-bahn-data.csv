@@ -403,3 +403,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-05-05,Google,28,24,Bing,20,6,huggingface.co,18,5,github.com,13,13,piebro.github.io,13,6,ecosia.org,7,2,claude.ai,6,2,com.reddit.frontpage,4,3,DuckDuckGo,2,2,search.brave.com,2,2
 2026-05-06,Google,27,23,Bing,20,6,piebro.github.io,18,7,huggingface.co,18,5,github.com,14,14,ecosia.org,7,2,claude.ai,6,2,com.reddit.frontpage,4,3,DuckDuckGo,2,2,search.brave.com,2,2
 2026-05-07,Google,27,23,piebro.github.io,18,7,huggingface.co,18,5,github.com,14,14,Bing,14,5,ecosia.org,7,2,claude.ai,6,2,com.reddit.frontpage,4,3,DuckDuckGo,2,2,Yahoo,1,1
+2026-05-08,Google,38,24,piebro.github.io,19,8,github.com,14,14,Bing,14,5,huggingface.co,12,4,claude.ai,7,3,ecosia.org,7,2,com.reddit.frontpage,4,3,DuckDuckGo,1,1,Yahoo,1,1
