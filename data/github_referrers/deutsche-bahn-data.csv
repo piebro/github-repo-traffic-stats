@@ -445,3 +445,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-06-17,Google,50,34,piebro.github.io,18,9,github.com,13,7,huggingface.co,9,3,claude.ai,5,4,Bing,5,3,perplexity.ai,2,1,bob-feature-design.qa-deployments.dku.sh,1,1,teams.public.onecdn.static.microsoft,1,1,,,
 2026-06-18,Google,56,38,piebro.github.io,18,9,github.com,13,7,huggingface.co,9,3,Bing,5,3,claude.ai,4,3,perplexity.ai,2,1,teams.public.onecdn.static.microsoft,1,1,,,,,,
 2026-06-19,Google,42,30,piebro.github.io,18,9,github.com,13,7,huggingface.co,11,5,Bing,6,4,claude.ai,4,3,perplexity.ai,2,1,teams.public.onecdn.static.microsoft,1,1,,,,,,
+2026-06-19,Google,44,31,piebro.github.io,18,8,github.com,13,7,Bing,7,5,huggingface.co,7,5,claude.ai,4,3,perplexity.ai,2,1,statics.teams.cdn.office.net,2,1,teams.public.onecdn.static.microsoft,1,1,,,
