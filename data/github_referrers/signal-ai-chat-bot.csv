@@ -501,3 +501,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-06-29,Google,61,55,DuckDuckGo,5,3,search.brave.com,3,3,github.com,2,2,Bing,1,1,Yahoo,1,1,perplexity.ai,1,1,,,,,,,,,
 2026-06-30,Google,63,56,DuckDuckGo,6,4,search.brave.com,3,3,github.com,2,2,Bing,1,1,Yahoo,1,1,perplexity.ai,1,1,,,,,,,,,
 2026-07-01,Google,66,59,DuckDuckGo,6,4,search.brave.com,3,3,Bing,2,2,github.com,2,2,Yahoo,1,1,perplexity.ai,1,1,,,,,,,,,
+2026-07-03,Google,64,57,DuckDuckGo,6,4,Bing,2,2,github.com,2,2,search.brave.com,2,2,perplexity.ai,1,1,,,,,,,,,,,,
