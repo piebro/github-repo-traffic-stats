@@ -500,3 +500,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-08-12,Google,62,47,piebro.github.io,31,11,github.com,25,13,huggingface.co,16,10,DuckDuckGo,11,7,chatgpt.com,8,4,claude.ai,3,1,Bing,2,2,kagi.com,2,2,ecosia.org,2,1
 2026-08-13,Google,69,49,piebro.github.io,38,13,github.com,32,15,huggingface.co,15,9,DuckDuckGo,10,6,chatgpt.com,10,5,claude.ai,3,1,Bing,2,2,kagi.com,2,2,ecosia.org,2,1
 2026-08-14,Google,69,49,piebro.github.io,38,13,github.com,35,17,huggingface.co,16,8,DuckDuckGo,11,7,chatgpt.com,10,5,delaybahn.com,4,4,search.brave.com,3,2,claude.ai,3,1,Bing,2,2
+2026-08-14,delaybahn.com,83,60,github.com,82,40,Google,69,51,piebro.github.io,38,13,huggingface.co,18,10,macwelt.de,11,11,DuckDuckGo,11,7,chatgpt.com,10,5,search.brave.com,3,2,claude.ai,3,1
