@@ -6,7 +6,7 @@
     <title>GitHub Traffic Dashboard</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
-    <script defer data-domain="piebro.github.io/github-repo-traffic-stats" src="https://plausible.io/js/script.js"></script>
+    <script defer data-domain="PabloSnchz.github.io/github-repo-traffic-stats" src="https://plausible.io/js/script.js"></script>
     <style>
         html {
             font-size: 14px;
@@ -131,7 +131,7 @@
     </style>
 </head>
 <body>
-    <h1 id="mainHeader"><a href="https://github.com/piebro">github.com/piebro</a>  traffic dashboard</h1>
+    <h1 id="mainHeader"><a href="https://github.com/PabloSnchz">github.com/PabloSnchz</a>  traffic dashboard</h1>
     <div id="previewView">
         <div class="preview-grid">
             <div class="preview-item"><img src="preview_plots/factorio-blueprint-visualizer.webp"/></div>
@@ -144,7 +144,7 @@
             <div class="preview-item"><img src="preview_plots/simple-website-change-detection.webp"/></div>
             <div class="preview-item"><img src="preview_plots/plotting-architecture.webp"/></div>
             <div class="preview-item"><img src="preview_plots/map2svg.webp"/></div>
-            <div class="preview-item"><img src="preview_plots/piebro.github.io.webp"/></div>
+            <div class="preview-item"><img src="preview_plots/PabloSnchz.github.io.webp"/></div>
             <div class="preview-item"><img src="preview_plots/generativeart.webp"/></div>
             <div class="preview-item"><img src="preview_plots/js-map-generator.webp"/></div>
             <div class="preview-item"><img src="preview_plots/plotting-ribbons.webp"/></div>
@@ -191,7 +191,7 @@
     </div>
 
     <p>
-        The code of this project can be found here: <a href="https://github.com/piebro/github-repo-traffic-stats">github.com/piebro/github-repo-traffic-stats</a>
+        The code of this project can be found here: <a href="https://github.com/PabloSnchz/github-repo-traffic-stats">github.com/PabloSnchz/github-repo-traffic-stats</a>
     </p>
 
     <script>
@@ -339,7 +339,7 @@
             for (let i = 1; i <= 10; i++) {
                 if (row[`path_${i}`] && row[`path_${i}_count`]) {
                     let path = row[`path_${i}`];
-                    path = path.replace(new RegExp(`^/piebro/${currentDataSource}`), '') || '/';
+                    path = path.replace(new RegExp(`^/PabloSnchz/${currentDataSource}`), '') || '/';
                     const count = parseInt(row[`path_${i}_count`]);
                     accumulatedPaths[path] = (accumulatedPaths[path] || 0) + count;
                 }
@@ -456,7 +456,7 @@
         currentDataSource = repo;
         const repoLink = document.getElementById('repoLink');
         repoLink.textContent = repo;
-        repoLink.href = `https://github.com/piebro/${repo}`;
+        repoLink.href = `https://github.com/PabloSnchz/${repo}`;
         loadDataAndCreateCharts();
         history.pushState({view: 'dashboard', repo: repo}, '', `#${repo}`);
         window.scrollTo(0, 0);

@@ -2,13 +2,13 @@
 
 A simple tool to collect and view GitHub repos traffic history longer than 14 days using GitHub Actions.
 
-[![A screenshot of the website.](dashboard_screenshot.png)](https://piebro.github.io/github-repo-traffic-stats)
+[![A screenshot of the website.](dashboard_screenshot.png)](https://PabloSnchz.github.io/github-repo-traffic-stats)
 
 ## Features
 
 - Collect traffic metrics for all your repos using GitHub Actions
 - A simple web interface to view the stats locally or hosted using GitHub Pages
-- A demo website is here: [piebro.github.io/github-repo-traffic-stats](https://piebro.github.io/github-repo-traffic-stats)
+- A demo website is here: [PabloSnchz.github.io/github-repo-traffic-stats](https://PabloSnchz.github.io/github-repo-traffic-stats)
 
 ## How to use
 
@@ -29,7 +29,7 @@ Contributions are welcome. Open an Issue if you want to report a bug, have an id
 
 ## Website Statistics
 
-There is lightweight tracking with [Plausible](https://plausible.io/about) for the [website](https://piebro.github.io/github-repo-traffic-stats/) to get info about how many people are visiting. Everyone who is interested can look at these stats here: https://plausible.io/piebro.github.io%2Fgithub-repo-traffic-stats?period=30d. Only users without an AdBlocker are counted, so these statistics are underestimating the actual count of visitors. I would guess that quite a few people (including me) visiting the site have an AdBlocker.
+There is lightweight tracking with [Plausible](https://plausible.io/about) for the [website](https://PabloSnchz.github.io/github-repo-traffic-stats/) to get info about how many people are visiting. Everyone who is interested can look at these stats here: https://plausible.io/PabloSnchz.github.io%2Fgithub-repo-traffic-stats?period=30d. Only users without an AdBlocker are counted, so these statistics are underestimating the actual count of visitors. I would guess that quite a few people (including me) visiting the site have an AdBlocker.
 
 ## License
 
