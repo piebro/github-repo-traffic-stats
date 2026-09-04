@@ -520,3 +520,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-09-01,delaybahn.com,292,187,github.com,155,105,huggingface.co,87,28,Google,63,46,heise.de,32,24,piebro.github.io,27,18,chatgpt.com,7,5,drehscheibe-online.de,6,6,copilot.microsoft.com,6,1,DuckDuckGo,2,2
 2026-09-02,delaybahn.com,278,179,github.com,135,95,huggingface.co,85,30,Google,58,43,piebro.github.io,21,14,heise.de,20,14,chatgpt.com,8,6,copilot.microsoft.com,6,1,drehscheibe-online.de,4,4,DuckDuckGo,3,3
 2026-09-03,delaybahn.com,203,141,github.com,122,83,huggingface.co,87,27,Google,57,42,piebro.github.io,13,9,heise.de,10,9,chatgpt.com,9,7,copilot.microsoft.com,6,1,DuckDuckGo,3,3,teams.public.onecdn.static.microsoft,2,2
+2026-09-04,delaybahn.com,173,114,github.com,97,63,huggingface.co,77,25,Google,58,43,piebro.github.io,11,7,heise.de,10,9,chatgpt.com,8,5,copilot.microsoft.com,6,1,DuckDuckGo,3,3,search.brave.com,2,2
