@@ -575,3 +575,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-10-26,Google,22,19,delaybahn.com,19,18,huggingface.co,15,14,aocr.org,12,12,github.com,10,10,piebro.github.io,7,5,Bing,2,2,ecosia.org,1,1,reddit.com,1,1,search.brave.com,1,1
 2026-10-27,Google,23,19,delaybahn.com,18,18,huggingface.co,15,14,github.com,13,13,aocr.org,12,12,piebro.github.io,7,5,Bing,2,2,ecosia.org,1,1,search.brave.com,1,1,teams.public.onecdn.static.microsoft,1,1
 2026-10-28,delaybahn.com,20,18,Google,19,16,huggingface.co,15,14,github.com,15,13,aocr.org,12,12,piebro.github.io,8,6,Bing,2,2,claude.ai,1,1,ecosia.org,1,1,teams.public.onecdn.static.microsoft,1,1
+2026-10-29,github.com,18,16,delaybahn.com,18,15,Google,18,14,huggingface.co,17,15,aocr.org,13,13,piebro.github.io,9,6,Bing,2,2,claude.ai,1,1,ecosia.org,1,1,perplexity.ai,1,1
