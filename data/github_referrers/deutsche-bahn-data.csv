@@ -577,3 +577,4 @@ date,ref_1,ref_1_count,ref_1_uniques,ref_2,ref_2_count,ref_2_uniques,ref_3,ref_3
 2026-10-28,delaybahn.com,20,18,Google,19,16,huggingface.co,15,14,github.com,15,13,aocr.org,12,12,piebro.github.io,8,6,Bing,2,2,claude.ai,1,1,ecosia.org,1,1,teams.public.onecdn.static.microsoft,1,1
 2026-10-29,github.com,18,16,delaybahn.com,18,15,Google,18,14,huggingface.co,17,15,aocr.org,13,13,piebro.github.io,9,6,Bing,2,2,claude.ai,1,1,ecosia.org,1,1,perplexity.ai,1,1
 2026-10-30,Google,20,16,huggingface.co,19,17,delaybahn.com,17,14,github.com,16,14,aocr.org,14,14,piebro.github.io,10,6,Bing,1,1,claude.ai,1,1,perplexity.ai,1,1,,,
+2026-10-31,Google,28,17,delaybahn.com,20,15,huggingface.co,19,17,github.com,19,16,aocr.org,14,14,piebro.github.io,10,6,perplexity.ai,2,2,german-punctuality.vercel.app,2,1,Bing,1,1,claude.ai,1,1
